@@ -6,12 +6,7 @@
 - 😄 Pronouns: He/Him
 
   
-#include <stdio.h>
 
-int main(){
-   printf("Heyyyyy!!");
-   return 0;
-}
 
 <!---
 Ajinkyangal/Ajinkyangal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
