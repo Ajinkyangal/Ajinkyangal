@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C/C++ coding
 - 💞️ I’m looking to collaborate on beginner level projects based on C programming language
-- 📫 How to reach me Mail - ajinkyaangal@gmail.com, Instagram - Ajinkya_official
+- 📫 How to reach me Mail - ajinkyaangal@gmail.com, Instagram - ded_ajinkya
 - 😄 Pronouns: He/Him
 
   
